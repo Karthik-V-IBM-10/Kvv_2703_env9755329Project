@@ -13,17 +13,18 @@
     <value name="JMS2waySSL">1.0</value>
     <value name="JMSTest">1.0</value>
     <value name="DADA_GlobalVariable1">1.0</value>
+    <value name="SIQACloudStreamsTests">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">24</value>
+  <value name="build">25</value>
   <null name="description"/>
   <value name="created_date">27-03-2025 11:29:35 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-03-27T11:40:55.388645075Z</value>
+  <value name="lastUpdated">2025-03-27T11:41:07.369538874Z</value>
   <value name="wmProjectId">fl703647c79cfdecab20c209</value>
   <value name="creator">Karthik V</value>
 </Values>
