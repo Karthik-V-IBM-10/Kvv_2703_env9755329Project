@@ -14,6 +14,12 @@ packages:
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
 services:
+- serviceName: project.kvv_2703_env9755329.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.operations.actions:DBInsert
+  packages:
+  - name: Kvv_2703_env9755329Project
+    version: "1.0"
+  - name: TPP_services_in_FCS
+    version: "1.0"
 - serviceName: project.kvv_2703_env9755329.integrations:AlertsCRTandERT
   packages:
   - name: Kvv_2703_env9755329Project
@@ -24,6 +30,12 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2043
+- serviceName: project.kvv_2703_env9755329.integrations:SIQAAdapterFlow
+  packages:
+  - name: Kvv_2703_env9755329Project
+    version: "1.0"
+  - name: TPP_services_in_FCS
+    version: "1.0"
 - serviceName: project.kvv_2703_env9755329.integrations:Sum
   packages:
   - name: Kvv_2703_env9755329Project
